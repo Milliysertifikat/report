@@ -75175,7 +75175,7 @@ A.K4.prototype={
 N(a){return new A.wB(new A.xL(null),"Murojaat oynasi",!1,null)}}
 A.xL.prototype={
 ai(){var s=t.N,r=t.z
-return new A.PW(new A.bA(null,t.am),new A.K7(B.xA,$.ao()),A.c([A.am(["id",1,"name","E'tiroz"],s,r),A.am(["id",2,"name","Taklif"],s,r),A.am(["id",3,"name","Test mazmuni bo'yicha"],s,r),A.am(["id",4,"name","Dasturiy qurilish bo'yicha"],s,r),A.am(["id",5,"name","Minnatdorchilik"],s,r),A.am(["id",6,"name","Boshqa"],s,r)],t.H7))}}
+return new A.PW(new A.bA(null,t.am),new A.K7(B.xA,$.ao()),A.c([A.am(["id",1,"name","Test mazmuniga oid"],s,r),A.am(["id",2,"name","Baholash bo'yicha"],s,r),A.am(["id",3,"name","Dasturiy ta'minot bo'yicha"],s,r),A.am(["id",4,"name","Taklif"],s,r),A.am(["id",5,"name","Minnatdorchilik"],s,r),A.am(["id",6,"name","Boshqa"],s,r)],t.H7))}}
 A.PW.prototype={
 au(){var s,r,q,p
 this.aN()
@@ -75248,7 +75248,7 @@ A.afA.prototype={
 $0(){this.a.e=this.b},
 $S:0}
 A.afH.prototype={
-$1(a){if(a==null&&this.a.d===3)return"Murojaat turini tanlang!"
+$1(a){if(a==null&&this.a.d===1)return"Murojaat turini tanlang!"
 return null},
 $S:181}
 A.afI.prototype={
